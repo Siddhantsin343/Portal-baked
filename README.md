@@ -23,6 +23,6 @@ Baked textures – Created in Blender (Cycles)
 
 
 Project Image
-![Portal Scene](./)
+![Portal Scene](./public/portal/portal.png)
 
 Happy Coding 😊.
