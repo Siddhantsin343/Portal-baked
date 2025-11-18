@@ -1,4 +1,4 @@
-Portal Scene – React Three Fiber
+# Portal Scene – React Three Fiber
 
 A visually immersive 3D portal scene built using React Three Fiber (R3F) with baked textures, smooth lighting, and animated elements. This project demonstrates optimized 3D rendering using GLTF models, R3F, and GPU-friendly baked lightmaps.
 
