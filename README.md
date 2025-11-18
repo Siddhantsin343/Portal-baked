@@ -20,3 +20,9 @@ React Three Fiber (R3F) – Main WebGL renderer
 Three.js – Underlying 3D library
 GLTF / DRACO – Optimized 3D models
 Baked textures – Created in Blender (Cycles)
+
+
+Project Image
+![Portal Scene](./)
+
+Happy Coding 😊.
